@@ -1,2 +1,1 @@
-# Java_school
-# 실습코드 + 과제
+#Java_School (실습코드 + 과제)
